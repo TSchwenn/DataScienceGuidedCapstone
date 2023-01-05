@@ -1,4 +1,4 @@
-# DataScienceGuidedCapstone
+# Thomas' DataScienceGuidedCapstone fork
 
 Hello students!
 Welcome to the Data Science Guided Capstone! 
